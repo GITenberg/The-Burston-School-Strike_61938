@@ -1,0 +1,26 @@
+_repo: The-Burston-School-Strike_61938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casey
+    birthdate: 1864
+    deathdate: 1932
+    gutenberg_agent_id: '51684'
+    url: http://www.gutenberg.org/2009/agents/51684
+description: 'Burston Strike School at Wikipedia: https://en.wikipedia.org/wiki/Burston_Strike_School'
+gutenberg_issued: '2020-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burston Strike School -- History'
+- !lcc 'LF'
+- !lcsh 'Higdon, Thomas George'
+- !lcsh 'Higdon, Annie K.'
+- GITenberg
+title: The Burston School Strike
+url: http://www.gutenberg.org/ebooks/61938
